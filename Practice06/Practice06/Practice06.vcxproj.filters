@@ -26,10 +26,10 @@
     <ClInclude Include="Game.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Visual Studio 2015\Projects\hello\hello\ExArray.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
     <ClInclude Include="Frame.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ExArray.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

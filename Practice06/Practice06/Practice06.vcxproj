@@ -149,7 +149,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Visual Studio 2015\Projects\hello\hello\ExArray.h" />
+    <ClInclude Include="ExArray.h" />
     <ClInclude Include="Frame.h" />
     <ClInclude Include="Game.h" />
     <ClInclude Include="KeyEvent.h" />
